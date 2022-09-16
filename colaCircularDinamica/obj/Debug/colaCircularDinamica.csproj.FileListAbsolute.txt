@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\bin\Debug\colaCircularDinamica.exe.config
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\bin\Debug\colaCircularDinamica.exe
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\bin\Debug\colaCircularDinamica.pdb
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\obj\Debug\colaCircularDinamica.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\obj\Debug\colaCircularDinamica.csproj.SuggestedBindingRedirects.cache
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\obj\Debug\colaCircularDinamica.Form1.resources
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\obj\Debug\colaCircularDinamica.Properties.Resources.resources
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\obj\Debug\colaCircularDinamica.csproj.GenerateResource.cache
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\obj\Debug\colaCircularDinamica.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\obj\Debug\colaCircularDinamica.exe
+C:\Users\andre\source\repos\colaCircularDinamica\colaCircularDinamica\obj\Debug\colaCircularDinamica.pdb
